@@ -1,6 +1,6 @@
 # Hi, I'm Manisha 👋
 
-### Aspiring AI/ML Engineer | Student
+### AI/ML Developer | Student
 
 Welcome to my GitHub! I am passionate about building smart solutions and continuously expanding my knowledge in Artificial Intelligence, Machine Learning, and Software Development.
 
@@ -13,13 +13,13 @@ Welcome to my GitHub! I am passionate about building smart solutions and continu
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishaagangadevi&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishaagangadevi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishaagangadevi&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishaagangadevi&theme=darkhub&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manishaagangadevi&theme=darkhub&no-frame=true&no-background=true&margin-w=15&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
