@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%2C%20I'm%20Manisha%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20in%20the%20making%20·%20CS%20Student%20·%20Open%20to%20Internships&descAlignY=55&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Student+%F0%9F%8E%93;ML+Builder+%F0%9F%A4%96;NLP+Explorer+%F0%9F%8C%B1;Open+to+Internships+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manishaagangadevi&color=blueviolet&style=for-the-badge)
 
