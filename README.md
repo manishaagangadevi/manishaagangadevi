@@ -39,27 +39,6 @@ Currently exploring NLP and deep learning always looking for the next interestin
 
 </div>
 
----
-
-### 🚀 Featured Projects
-
-#### 🐛 [dead-code-detector](https://github.com/manishaagangadevi/dead-code-detector)
-> Static analysis tool that scans codebases to identify unreachable, unused, or redundant code — improving code quality automatically.
-
-`Python` `AST` `Static Analysis`
-
-#### 📦 [amazon-ml-price-prediction](https://github.com/manishaagangadevi/amazon-ml-price-prediction)
-> ML model trained on Amazon product data to predict optimal pricing using regression and feature engineering on real e-commerce datasets.
-
-`Python` `Scikit-learn` `Pandas` `Regression`
-
-#### 🎓 [student-activity-detection](https://github.com/manishaagangadevi/student_activity_detection)
-> Computer vision system that detects and classifies student activities in classroom environments in real time.
-
-`Python` `OpenCV` `Computer Vision`
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
