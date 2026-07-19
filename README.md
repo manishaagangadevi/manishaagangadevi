@@ -1,16 +1,22 @@
-# Manisha Gangadevi
+<div align="center">
 
-Full-stack + AI/ML engineer. Final-year CSE (AI & ML), CGPA 8.39. I build things end to end and ship them, not just prototype and walk away.
+```
+$ whoami
+Manisha Gangadevi
+
+$ cat role.txt
+Full-Stack + AI/ML Engineer
+Final-year CSE (AI & ML) · CGPA 8.39 · Hyderabad, India
+
+$ status --current
+Open to internships and full-time roles
+```
+
+</div>
 
 **[Portfolio](https://manishagangadevi-portfolio.vercel.app)** · **[Resume](https://drive.google.com/file/d/1mlI1_bPdFcf60ObfkskdRZO0q0Otlhl4/view?usp=sharing)** · **[LinkedIn](https://www.linkedin.com/in/manisha223685/)**
 
 ---
-
-### Currently building
-
-- **AI Code Review Assistant** — Next.js + NestJS platform with configurable AI review templates
-- **Dead Code Detector** — AST-based static analysis with an LLM explaining every issue *(First Prize, College Project Expo)*
-- **Store Intelligence System** — retail analytics backend built for Purplle Tech Challenge 2026
 
 ### Stack
 
