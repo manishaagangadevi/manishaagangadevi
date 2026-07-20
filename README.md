@@ -1,23 +1,13 @@
-[README.md](https://github.com/user-attachments/files/30203193/README.md)
 <div align="center">
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
 
-```
-$ whoami
-Manisha Gangadevi
-
-$ cat role.txt
-Full-Stack + AI/ML Engineer
-Final-year CSE (AI & ML) · CGPA 8.39 · Hyderabad, India
-
-$ status --current
-Open to internships and full-time roles
-```
-
-</div>
+### Manisha Gangadevi
+Full-Stack + AI/ML Engineer · Final-year CSE (AI & ML) · CGPA 8.39 · Hyderabad, India
 
 **[Portfolio](https://manishagangadevi-portfolio.vercel.app)** · **[Resume](https://drive.google.com/file/d/1mlI1_bPdFcf60ObfkskdRZO0q0Otlhl4/view?usp=sharing)** · **[LinkedIn](https://www.linkedin.com/in/manisha223685/)**
+
+</div>
 
 ---
 
@@ -35,6 +25,14 @@ Open to internships and full-time roles
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+### Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishaagangadevi&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
 
 ---
 
