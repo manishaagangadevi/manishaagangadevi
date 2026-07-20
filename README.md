@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
-
 ### Manisha Gangadevi
 Full-Stack + AI/ML Engineer · Final-year CSE (AI & ML) · CGPA 8.39 · Hyderabad, India
 
@@ -28,18 +26,10 @@ Full-Stack + AI/ML Engineer · Final-year CSE (AI & ML) · CGPA 8.39 · Hyderaba
 
 ---
 
-### Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishaagangadevi&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
 ### Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manishaagangadevi&theme=onedark&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=manishaagangadevi" />
 </div>
 
 ---
