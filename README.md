@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30202530/README.md)
 <div align="center">
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
@@ -41,7 +40,6 @@ Open to internships and full-time roles
 ### Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishaagangadevi&theme=dark&animation=rise" width="100%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishaagangadevi&theme=dark&animation=draw" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishaagangadevi&theme=dark&animation=stagger" width="49%" />
 </div>
