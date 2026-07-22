@@ -36,7 +36,7 @@ Building AI solutions with **Computer Vision**, **Deep Learning**, and **Natural
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Building AI solutions with **Computer Vision**, **Deep Learning**, and **Natural
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -71,12 +71,6 @@ Building AI solutions with **Computer Vision**, **Deep Learning**, and **Natural
 
  AI Agents
 ```
-
----
-
-# 🌐 Portfolio
-
-### https://manishagangadevi-portfolio.vercel.app
 
 ---
 
