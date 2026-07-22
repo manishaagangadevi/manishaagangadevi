@@ -1,15 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Manisha%20Gangadevi&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="YOUR_GIF_LINK" width="900"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&duration=3500&center=true&vCenter=true&width=650&color=58A6FF&lines=AI+%26+ML+Engineer+in+the+Making;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Building+AI+Solutions+for+Real+Problems;Open+to+AI%2FML+Internships)](https://git.io/typing-svg)
+# Hi, I'm Manisha 👋
 
-<a href="https://manishagangadevi-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-58A6FF?style=for-the-badge"/>
+### Final Year B.Tech CSE (AI & ML)
+
+Building AI solutions with **Computer Vision**, **Deep Learning**, and **Natural Language Processing**.
+
+<br>
+
+<a href="https://manishagangadevi-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/manisha223685/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/manisha223685">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:manishagangadevi1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -18,35 +26,17 @@
 
 ---
 
-# 👩‍💻 About Me
+# 👩🏻‍💻 About Me
 
-```python
-class Manisha:
-
-    role = "Final Year B.Tech CSE (AI & ML)"
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Natural Language Processing"
-    ]
-
-    currently_learning = [
-        "LLMs",
-        "RAG",
-        "Deep Learning",
-        "AI Agents"
-    ]
-
-    looking_for = "AI/ML Internship"
-
-    motto = "Building AI that solves real-world problems."
-```
+-  Final Year **Computer Science (AI & ML)** Student
+-  Passionate about **Artificial Intelligence & Machine Learning**
+-  Interested in **Computer Vision**, **NLP**, and **Deep Learning**
+-  Currently exploring **LLMs**, **RAG**, and **AI Agents**
+-  Open to **AI/ML Internship Opportunities**
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -56,85 +46,54 @@ class Manisha:
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=manishaagangadevi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manishaagangadevi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=manishaagangadevi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=manishaagangadevi&theme=tokyo-night&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=manishaagangadevi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+#  Currently Learning
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🎓 **AI Student Monitoring System** | YOLOv8 • OpenCV • Python | Detects sleeping, eating and phone usage in classrooms with automated alerts. |
-| 🤖 **AI Portfolio Website** | React • Tailwind | Personal portfolio showcasing projects, skills and experience. |
-| 🧠 **NLP Projects** | Python • Transformers | Text classification, sentiment analysis and language understanding. |
-| 📊 **Machine Learning Projects** | Scikit-learn • Pandas | End-to-end ML projects with data preprocessing, training and evaluation. |
+```text
+ Large Language Models (LLMs)
 
----
+ Retrieval-Augmented Generation (RAG)
 
-# 🌱 Currently Exploring
+ Computer Vision
 
-- 🤖 Large Language Models (LLMs)
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 👁️ Computer Vision
-- 📚 Deep Learning
-- ⚡ AI Automation
+ Deep Learning
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/manishaagangadevi/manishaagangadevi/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+ AI Agents
+```
 
 ---
 
 # 🌐 Portfolio
 
-### 🔗 https://manishagangadevi-portfolio.vercel.app/
+### https://manishagangadevi-portfolio.vercel.app
 
 ---
 
-# 📫 Connect With Me
-
 <div align="center">
 
+### Let's Connect 
+
 <a href="https://www.linkedin.com/in/manisha223685">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:manishagangadevi1@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://manishagangadevi-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge"/>
+<a href="https://manishagangadevi-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for stopping by!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
