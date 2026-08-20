@@ -1,42 +1,41 @@
-<h1 align="center">Hi, I'm Manisha</h1>
+<div align="center">
 
-<p align="center">
-Final Year B.Tech Computer Science (AI & ML)
-</p>
+### Manisha Gangadevi
+Full-Stack + AI/ML Engineer · Final-year CSE (AI & ML) · Hyderabad, India
 
-<p align="center">
-Passionate about building AI-powered applications with Machine Learning, Computer Vision, and Full-Stack Development.
-</p>
+**[Portfolio](https://manishagangadevi-portfolio.vercel.app)** · **[Resume](https://drive.google.com/file/d/1mlI1_bPdFcf60ObfkskdRZO0q0Otlhl4/view?usp=sharing)** · **[LinkedIn](https://www.linkedin.com/in/manisha223685/)**
 
-<p align="center">
-<a href="https://manishagangadevi-portfolio.vercel.app">Portfolio</a> •
-<a href="https://www.linkedin.com/in/manisha223685/">LinkedIn</a> •
-<a href="mailto:manishagangadevi1@gmail.com">Email</a>
-</p>
+</div>
 
 ---
 
-## About
+### Stack
 
-I'm a final-year Computer Science student specializing in Artificial Intelligence and Machine Learning. I enjoy building intelligent applications that solve real-world problems and continuously exploring new technologies in AI.
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,react,nextjs,fastapi,postgres,docker,git,github,vscode" />
-</p>
-
-<p align="center">
-YOLOv8 • MediaPipe • Computer Vision • LLM Integration
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,nestjs,fastapi,postgres,docker,tensorflow,sklearn,git,github,vscode" />
+</div>
 
 ---
 
-## GitHub Stats
+### Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manishaagangadevi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=manishaagangadevi&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishaagangadevi&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishaagangadevi&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishaagangadevi/manishaagangadevi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishaagangadevi/manishaagangadevi/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/manishaagangadevi/manishaagangadevi/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+📫 **manishagangadevi1@gmail.com**
